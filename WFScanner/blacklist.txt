@@ -1,8 +1,0 @@
-chrome://
-chrome-extension://
-edge://
-about:
-file://
-view-source:
-data:
-chrome.google.com/webstore 
